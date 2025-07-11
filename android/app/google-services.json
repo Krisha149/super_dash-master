@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "224925040236",
+    "firebase_url": "https://superdash-ee609-default-rtdb.firebaseio.com",
+    "project_id": "superdash-ee609",
+    "storage_bucket": "superdash-ee609.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224925040236:android:e286d24d28f71328c0e249",
+        "android_client_info": {
+          "package_name": "com.ext.super_dash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDilN9zOu7JabNUjksoucjfZyHOsTrD2WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224925040236:android:218f4371b79aa79bc0e249",
+        "android_client_info": {
+          "package_name": "com.ext.superdash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDilN9zOu7JabNUjksoucjfZyHOsTrD2WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
